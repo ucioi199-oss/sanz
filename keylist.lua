@@ -10,10 +10,10 @@ return {
         max_devices = 20,
         SLOT = "1"
     },
-    ["testket"] = {
-        type = "sanzDEMO",
+    ["testkey"] = {
+        type = "sanz",
         expiry = "2026-10-09",
-        valid = true,
+        valid = false,
         max_devices = 1,
         SLOT = "2"
     },
